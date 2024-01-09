@@ -1,0 +1,1 @@
+# macos_status_bar_app_example
